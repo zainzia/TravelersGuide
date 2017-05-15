@@ -1,0 +1,17 @@
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Debug\x86\esqlite3.dll
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Debug\x64\esqlite3.dll
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Debug\TravelersGuide.Core.UnitTests.dll.config
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Debug\TravelersGuide.Core.UnitTests.dll
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Debug\TravelersGuide.Core.UnitTests.pdb
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Debug\SQLite-net.dll
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Debug\SQLitePCL.batteries.dll
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Debug\SQLitePCL.raw.dll
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Debug\SQLitePCLPlugin_esqlite3.dll
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Debug\TravelersGuide.Core.dll
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Debug\TravelersGuide.Core.pdb
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Debug\SQLite-net.xml
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\obj\Debug\TravelersGuide.Core.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\obj\Debug\TravelersGuide.Core.UnitTests.dll
+C:\Users\Zain\documents\visual studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\obj\Debug\TravelersGuide.Core.UnitTests.pdb

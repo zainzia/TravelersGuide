@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelersGuide.Core", "TravelersGuide.Core\TravelersGuide.Core.csproj", "{0B8DBEA6-7BBE-45B6-9F79-36F1E3F155A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelersGuide.Core.UnitTests", "TravelersGuide.Core.UnitTests\TravelersGuide.Core.UnitTests.csproj", "{AF258305-42EC-4EAC-A448-A5224375686A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelersGuide", "TravelersGuide\TravelersGuide.csproj", "{0E5D33AD-66F7-4256-8617-4CE6DF4D5F85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B8DBEA6-7BBE-45B6-9F79-36F1E3F155A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8DBEA6-7BBE-45B6-9F79-36F1E3F155A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8DBEA6-7BBE-45B6-9F79-36F1E3F155A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8DBEA6-7BBE-45B6-9F79-36F1E3F155A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF258305-42EC-4EAC-A448-A5224375686A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF258305-42EC-4EAC-A448-A5224375686A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF258305-42EC-4EAC-A448-A5224375686A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF258305-42EC-4EAC-A448-A5224375686A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5D33AD-66F7-4256-8617-4CE6DF4D5F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5D33AD-66F7-4256-8617-4CE6DF4D5F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5D33AD-66F7-4256-8617-4CE6DF4D5F85}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0E5D33AD-66F7-4256-8617-4CE6DF4D5F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5D33AD-66F7-4256-8617-4CE6DF4D5F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5D33AD-66F7-4256-8617-4CE6DF4D5F85}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

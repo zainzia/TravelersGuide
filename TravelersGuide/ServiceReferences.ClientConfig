@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="BasicHttpBinding_ITravelersGuide" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://localhost:9001/TravelersGuideWCFService"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_ITravelersGuide"
+                contract="ITravelersGuide" name="BasicHttpBinding_ITravelersGuide" />
+        </client>
+        <extensions />
+    </system.serviceModel>
+</configuration>

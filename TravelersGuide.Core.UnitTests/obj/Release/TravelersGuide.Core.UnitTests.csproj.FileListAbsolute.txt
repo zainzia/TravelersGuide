@@ -1,0 +1,17 @@
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Release\x86\esqlite3.dll
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Release\x64\esqlite3.dll
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Release\TravelersGuide.Core.UnitTests.dll.config
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Release\TravelersGuide.Core.UnitTests.dll
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Release\TravelersGuide.Core.UnitTests.pdb
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Release\SQLite-net.dll
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Release\SQLitePCL.batteries.dll
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Release\SQLitePCL.raw.dll
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Release\SQLitePCLPlugin_esqlite3.dll
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Release\TravelersGuide.Core.dll
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Release\Newtonsoft.Json.dll
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Release\TravelersGuide.Core.pdb
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Release\SQLite-net.xml
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\bin\Release\Newtonsoft.Json.xml
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\obj\Release\TravelersGuide.Core.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\obj\Release\TravelersGuide.Core.UnitTests.dll
+C:\Users\Zain\Documents\Visual Studio 2015\Projects\TravelersGuide\TravelersGuide.Core.UnitTests\obj\Release\TravelersGuide.Core.UnitTests.pdb

@@ -1,0 +1,1 @@
+<vector android:height="24dp" android:width="24dp" android:viewportHeight="48" android:viewportWidth="48" xmlns:android="http://schemas.android.com/apk/res/android"><group android:name="rotationGroup" android:pivotX="24" android:pivotY="24" android:rotation="0"><path android:name="ic_done_all" android:fillColor="#ffffff" android:pathData="@string/ic_done_all" /></group></vector>

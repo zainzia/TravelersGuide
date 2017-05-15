@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainScrollView"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:minWidth="200px"
+    android:minHeight="200px">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:text="Source"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerInParent="true"
+                android:id="@+id/sourceLanguageBtn" />
+            <Button
+                android:text="Destination"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/targetLanguageBtn"
+                android:layout_alignParentRight="true"
+                android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <EditText
+            android:inputType="textMultiLine"
+            android:lines="20"
+            android:minLines="6"
+            android:gravity="top|left"
+            android:maxLines="1000"
+            android:layout_width="match_parent"
+            android:layout_height="500px"
+            android:scrollbars="vertical"
+            android:id="@+id/textToTranslateView" />
+        <Button
+            android:layout_height="200px"
+            android:layout_width="match_parent"
+            android:text="@string/translateText"
+            android:id="@+id/translateButton"
+            android:layout_marginBottom="0.0dp" />
+        <TextView
+            android:text=""
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textIsSelectable="true"
+            android:id="@+id/translatedTextView" />
+    </LinearLayout>
+</ScrollView>

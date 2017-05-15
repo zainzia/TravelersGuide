@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+  
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/TranslationListRecyclerView"
+        android:scrollbars="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <com.refractored.fab.CustomFloatingActionButton
+          android:id="@+id/TextTabFAB"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="bottom|right"
+          android:layout_margin="16dp"
+          android:enabled="false"
+          android:src="@drawable/ic_launcher"
+          fab:fab_colorNormal="@color/accent"
+          fab:fab_colorPressed="@color/accent_pressed"
+          fab:fab_colorRipple="@color/ripple" />
+  
+      <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#696969"
+            android:text="Capture some Images with\n your Camera"
+            android:id="@+id/EmptyTextHistoryTextView"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:layout_marginLeft="4dp"
+            android:textSize="16dp" />
+
+
+</LinearLayout>
